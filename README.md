@@ -4,7 +4,7 @@
 
 **[what's baked into this bundle;]**
 
-*- tkinter (+ttk, messagebox) — the entire GUI (control panel, dialogs, popups)
+- tkinter (+ttk, messagebox) — the entire GUI (control panel, dialogs, popups)
 - asyncio — runs the Discord client's event loop on its own thread
 - threading — keeps the bot loop and the Tkinter UI running side by side
 - queue — thread-safe hand-off between the bot thread and the UI thread
@@ -15,6 +15,6 @@
 - logging — console output
 - pathlib, os, sys — file paths, env vars, detecting whether it's running as a script or the frozen exe
 - ctypes — one windows API call to minimize the console on connect
-- typing — type hints only, no runtime effect*
+- typing — type hints only, no runtime effect
 
 **(virusTotal hashID; 9fa5c4dee881756c13ecbc60854532fd4056442d86313125f147a3833c2bcb7e)**
