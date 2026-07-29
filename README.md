@@ -1,7 +1,7 @@
 *a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.*
 **i recommend running this in a folder :D** *it will create 2 files (for saving info/settings; json/env)*
 
-**[what's baked into this bundle;]**
+$$\color{red}\text{**[what's baked into this bundle;]**}$$
 
 - tkinter (+ttk, messagebox) — the entire GUI (control panel, dialogs, popups)
 - asyncio — runs the Discord client's event loop on its own thread
@@ -18,8 +18,7 @@
 
 **(virusTotal hashID; 9fa5c4dee881756c13ecbc60854532fd4056442d86313125f147a3833c2bcb7e)**
 
-$$\color{lightblue}\text{[what this b0t does;]}$$
-**[what this b0t does;]**
+$$\color{red}\text{**[what this b0t does;]**}$$
 
 Main control panel — Send tab
 - live-populated dropdown of every text channel the bot can see across every server it's in
