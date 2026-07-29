@@ -18,6 +18,7 @@
 
 **(virusTotal hashID; 9fa5c4dee881756c13ecbc60854532fd4056442d86313125f147a3833c2bcb7e)**
 
+$$\color{lightblue}\text{[what this b0t does;]}$$
 **[what this b0t does;]**
 
 Main control panel — Send tab
