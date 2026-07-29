@@ -2,9 +2,7 @@
 *a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.*
 **i recommend running this in a folder :D** *it will create 2 files (for saving info/settings; json/env)*
 
-**├────────────────────────────────┼
-│ what's baked into this bundle; │
-└────────────────────────────────┴**
+**[what's baked into this bundle;]**
 
 *- tkinter (+ttk, messagebox) — the entire GUI (control panel, dialogs, popups)
 - asyncio — runs the Discord client's event loop on its own thread
