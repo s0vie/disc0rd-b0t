@@ -17,3 +17,30 @@
 - typing — type hints only, no runtime effect
 
 **(virusTotal hashID; 9fa5c4dee881756c13ecbc60854532fd4056442d86313125f147a3833c2bcb7e)**
+
+**[what this b0t does;]**
+
+Main control panel — Send tab
+- live-populated dropdown of every text channel the bot can see across every server it's in
+- type a message, hit Send (or Enter) — posts to whichever channel is selected
+
+Presence tab
+- custom status text override (blank reverts to the binary loop)
+- online / Away / Busy / Offline radio buttons, applied immediately and persisted
+
+Announcements tab
+- edit each announcements time, timezone, and message right in the UI, with validation (24h time format, real IANA timezone check) — saves straight to announcements.json, live within 30s
+
+Welcome tab
+- toggle an automatic new-member welcome message, with an editable template supporting {mention} and {name}
+
+Moderation tab
+- member dropdown (auto-populated from the relevant server)
+- disconnect / timeout / kick / ban, with a duration field (Timeout only) and a reason field (timeout/kick/ban only, feeds the server's audit log)
+- confirmation prompt before every action
+
+Online Users panel
+- live list of who's currently online in the server tied to the selected channel (needs '*Presence Intent*' *ENABLED* in the discord Developer portal)
+
+Welcome popup
+- "welc0me user" intro window on connect, with a help link explaining every tab, a Давай блядь → (continue)-on-hover dismiss button, and a "don't show again" checkbox
