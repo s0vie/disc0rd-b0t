@@ -1,4 +1,3 @@
-**# disc0rd-b0t**
 *a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.*
 **i recommend running this in a folder :D** *it will create 2 files (for saving info/settings; json/env)*
 
