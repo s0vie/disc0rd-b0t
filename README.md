@@ -1,4 +1,4 @@
-$$\color{green}\text{**(virusTotal hashID; 9fa5c4dee881756c13ecbc60854532fd4056442d86313125f147a3833c2bcb7e)**}$$
+$$\color{green}\text{**(virusTotal hashID; 88efcc395fa8f5c9380504d69d5986e02d4de5fa40f1fef9d97a275ccba623b8)**}$$
 
 *a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.*
 **i recommend running this in a folder :D** *it will create 2 files (for saving info/settings; json/env)*
