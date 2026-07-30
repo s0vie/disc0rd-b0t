@@ -45,3 +45,11 @@ Online Users panel
 
 Welcome popup
 - "welc0me user" intro window on connect, with a help link explaining every tab, a Давай блядь → (continue)-on-hover dismiss button, and a "don't show again" checkbox
+
+///////////////////////////////////////////////////////////////////////////
+
+$$\color{orange}\text{01 - a discord "bot" added to your server via Integrations in the server settings
+02 - a bot-specific role w/ admin permissions
+03 - the bot's token
+04 - Presence Intent — ENABLED (THIS ONE IS A MUST)
+05 - a channel ID from any channel — just needed so it can connect}$$
