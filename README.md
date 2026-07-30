@@ -1,4 +1,5 @@
-$$\color{green}\text{**(virusTotal hashID; 88efcc395fa8f5c9380504d69d5986e02d4de5fa40f1fef9d97a275ccba623b8)**}$$
+$$\color{orange}\text{**(virusTotal hashID; 88efcc395fa8f5c9380504d69d5986e02d4de5fa40f1fef9d97a275ccba623b8)**}$$
+$$\color{red}\text{**MAKE SURE YOU HAVE YOUR OWN BOT CREATED ON YOUR SERVER-**}$$ $$\color{green}\text{**[PRESENCE INTENT]**}$$ $$\color{red}\text{**MUST BE ENABLED ON THE BOT!!! - GET BOT TOKEN+CHANNEL ID - PASTE INTO APP - ??? - PROFIT \o/**}$$
 
 *a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.*
 **i recommend running this in a folder :D** *it will create 2 files (for saving info/settings; json/env)*
