@@ -46,7 +46,7 @@ Online Users panel
 Welcome popup
 - "welc0me user" intro window on connect, with a help link explaining every tab, a Давай блядь → (continue)-on-hover dismiss button, and a "don't show again" checkbox
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+//////////////////////////////////////////////////////////////$$\color{yellow}\text{**REQUIREMENTS**}$$//////////////////////////////////////////////////////
 
 $$\color{red}\text{01 - a discord "bot" added to your server via Integrations in the server settings}$$
 $$\color{green}\text{02 - a bot-specific role w/ admin permissions}$$
