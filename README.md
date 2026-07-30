@@ -1,7 +1,7 @@
 $$\color{orange}\text{**(virusTotal hashID; 88efcc395fa8f5c9380504d69d5986e02d4de5fa40f1fef9d97a275ccba623b8)**}$$
 $$\color{red}\text{**MAKE SURE YOU HAVE YOUR OWN BOT CREATED ON YOUR SERVER-**}$$ $$\color{green}\text{**[PRESENCE INTENT]**}$$ $$\color{red}\text{**MUST BE ENABLED ON THE BOT!!! - GET BOT TOKEN+CHANNEL ID - PASTE INTO APP - ??? - PROFIT \o/**}$$
 
-*a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.*
+*a bot i made for my discord - used to be a py script for personal use, now compiled so i could share it.* - $$\color{orange}\text{text here}$$
 **i recommend running this in a folder :D** *it will create 2 files (for saving info/settings; json/env)*
 
 $$\color{red}\text{**[what's baked into this bundle;]**}$$
@@ -48,8 +48,8 @@ Welcome popup
 
 ///////////////////////////////////////////////////////////////////////////
 
-$$\color{orange}\text{01 - a discord "bot" added to your server via Integrations in the server settings
-02 - a bot-specific role w/ admin permissions
-03 - the bot's token
-04 - Presence Intent — ENABLED (THIS ONE IS A MUST)
-05 - a channel ID from any channel — just needed so it can connect}$$
+$$\color{orange}\text{01 - a discord "bot" added to your server via Integrations in the server settings}$$
+$$\color{orange}\text{02 - a bot-specific role w/ admin permissions}$$
+$$\color{orange}\text{03 - the bot's token}$$
+$$\color{orange}\text{04 - Presence Intent — ENABLED (THIS ONE IS A MUST)}$$
+$$\color{orange}\text{05 - a channel ID from any channel — just needed so it can connect}$$
